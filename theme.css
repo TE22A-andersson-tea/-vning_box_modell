@@ -1,0 +1,27 @@
+.rubrik{
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    
+    text-align: center;
+
+    background-color: #03d3fc;
+    border: 5px solid black;
+    border-radius: 3px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 10px;
+
+}
+
+div{
+    padding: 70xp;
+    border: 2px solid #03d3fc;
+    margin: 10px;
+
+
+}
+
+.artikel_container{
+    display: flex;
+    flex-direction: row;
+}
